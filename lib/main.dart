@@ -9,12 +9,12 @@ void main() {
         backgroundColor: Colors.blueAccent,
         appBar: AppBar(
           centerTitle: true,
-          title: Text("Vishvas"),
+          title: Text("sun rise"),
           backgroundColor: Colors.blueGrey,
         ),
         body: const Center(
           child: Image(
-            image: AssetImage("images/flower.png"),
+            image: AssetImage("images/l.jpg"),
           ),
         ),
       ),
